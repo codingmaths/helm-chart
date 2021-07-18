@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-18T21:17:02.553054+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 76f040d81e1ad95c1a4649ee87c7a5bd9f4305268d519ea03a3e80c8d8dea89c
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://codingmaths.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-18T21:17:02.551991+05:30"
